@@ -10,8 +10,8 @@
      name: Aliyun Signin
      runs-on: ubuntu-latest
      steps:
-       - uses: ImYrS/aliyun-auto-signin@main
+       - uses: U98de/aliyun-auto-signin@main
          with:
            REFRESH_TOKENS: '6be480eff6c24d208b85f89d1171e395'
-           PUSH_TYPES: 'pushplus'
-           PUSHPLUS_TOKEN: '5275e96c9c004169973cb4b19db9d8e8'
+           PUSH_TYPES: 'bark'
+           BARK_KEY: '24x9zM9YcGFXpDSEfic5sP'
