@@ -12,6 +12,6 @@
      steps:
        - uses: ImYrS/aliyun-auto-signin@main
          with:
-           REFRESH_TOKENS: '4336a925a8d3440c892a10765ae136c6'
+           REFRESH_TOKENS: '6be480eff6c24d208b85f89d1171e395'
            PUSH_TYPES: 'pushplus'
            PUSHPLUS_TOKEN: '5275e96c9c004169973cb4b19db9d8e8'
